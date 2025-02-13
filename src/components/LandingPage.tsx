@@ -22,6 +22,7 @@ const LandingPage: React.FC = () => {
         p: 3,
         position: "relative",
         pt: 10, 
+        loading: "lazy",
       }}
     >
       <Box
